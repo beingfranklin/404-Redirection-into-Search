@@ -1,5 +1,5 @@
-# 404 Error Page Redirections into Search Results
-This Script Redirects the current page/blog to another Blogger blog. That page will display the search result for the Blog Post Title.
+# Turn your 404 Error Page Redirections into Search Results
+This Script Redirects the current page/blog to another Blog/Site or same Blog/Site. That page will display the search result for the Blog Post Title.
 
 ## Note
  This is not a 301 redirection method. Its just for making easy for user to get to that post easily without any problem.
@@ -7,6 +7,7 @@ This Script Redirects the current page/blog to another Blogger blog. That page w
 ## Benefits
 
 This can be used to convert 404 pages into search results. Read More about Implementation here(Coming Soon).
+##### This can also be used for redirecting to same domain.
 
 ## What Really Happens Here?
 
