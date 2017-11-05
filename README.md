@@ -11,8 +11,11 @@ This can be used to convert 404 pages into search results. Read More about Imple
 ## What Really Happens Here?
 
 1)Fetching the last part of URL of Site A.
+
 2)Clean it. Remove all unwanted hyphens and replace it with search.
+
 3)Optional : Remove the extension .html from the string.
+
 4)Take this formatted string to site B's search and make it a search.
 (In Most Cases the results will be narrowed as URL is being chopped out.)
 
