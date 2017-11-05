@@ -2,7 +2,7 @@
 This Script Redirects the current page/blog to another Blog/Site or same Blog/Site. That page will display the search result for the Blog Post Title.
 
 ## Note
- This is not a 301 redirection method. Its just for making easy for user to get to that post easily without any problem.
+ This is not a 301 redirection method. Its just for making easy for user to get to that post easily without any problem from a 404 page.
 
 ## Benefits
 
