@@ -1,6 +1,6 @@
 //Redirection-with-Search Script
 //Written by Franklin Antony
-//twitter: @franklinrockz
+//twitter: @beingfranklin
 //Email: franklinanton.007@gmail.com
 
 
