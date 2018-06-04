@@ -11,6 +11,8 @@ This can be used to convert 404 pages into search results. Read More about Imple
 
 ## What Really Happens Here?
 
+ <img src="https://raw.githubusercontent.com/beingfranklin/404-Redirection-into-Search/master/ScreenCapture.gif" /> 
+
 1)Fetching the last part of URL of Site A.
 
 2)Clean it. Remove all unwanted hyphens and replace it with search.
