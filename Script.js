@@ -1,8 +1,3 @@
-//Redirection-with-Search Script
-//Written by Franklin Antony
-//twitter: @beingfranklin
-//Email: franklinanton.007@gmail.com
-
 
 //This Script Redirects from Blog A to Blog B's search page.
 //Used to redirect to search, if 404 pages are present.
